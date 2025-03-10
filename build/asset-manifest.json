@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bd5c23eb.css",
+    "main.js": "/static/js/main.7ad1fc03.js",
+    "static/js/488.c1e00be0.chunk.js": "/static/js/488.c1e00be0.chunk.js",
+    "static/media/DALL·E 2024-12-16 13.59.04 - A detailed and realistic image of mechanical components including gears, pistons, rods, and other automotive parts arranged artistically .webp": "/static/media/DALL·E 2024-12-16 13.59.04 - A detailed and realistic image of mechanical components including gears, pistons, rods, and other automotive parts arranged artistically .4712db26dc59ecf56fe9.webp",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.bd5c23eb.css.map": "/static/css/main.bd5c23eb.css.map",
+    "main.7ad1fc03.js.map": "/static/js/main.7ad1fc03.js.map",
+    "488.c1e00be0.chunk.js.map": "/static/js/488.c1e00be0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd5c23eb.css",
+    "static/js/main.7ad1fc03.js"
+  ]
+}
